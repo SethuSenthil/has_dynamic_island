@@ -4,7 +4,7 @@ version: 1.0.0
 homepage: https://github.com/sethusenthil/has_dynamic_island
 issue_tracker: https://github.com/sethusenthil/has_dynamic_island/issues
 repository: https://github.com/sethusenthil/has_dynamic_island
-topics: ['dynamic island', 'ios', 'iphone', 'apple', 'live activities']
+topics: ['dynamic-island', 'ios', 'iphone', 'apple', 'live-activities']
 funding:
  - https://www.buymeacoffee.com/sethusenthil
  - https://ko-fi.com/sethusenthil
