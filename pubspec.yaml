@@ -1,6 +1,6 @@
 name: has_dynamic_island
 description: Check if a device has the Apple dynamic island hardware
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/sethusenthil/has_dynamic_island
 issue_tracker: https://github.com/sethusenthil/has_dynamic_island/issues
 repository: https://github.com/sethusenthil/has_dynamic_island
