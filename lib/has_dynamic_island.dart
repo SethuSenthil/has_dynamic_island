@@ -9,7 +9,7 @@ class HasDynamicIsland {
   Future<bool> hasDynamicIsland() async {
     Map<String, List<int>> supportedMachineCodes = {
       'iPhone15': [2, 3], //iPhone 14 Series, Pro and Pro Max
-      'iPhone16': [2, 3] //iPhone 15 Series, Pro and Pro Max
+      'iPhone16': [0, 1, 2, 3] //iPhone 15 Series, Regular, Plus Pro and Pro Max
     };
 
     if (Platform.isIOS) {
