@@ -1,6 +1,6 @@
 name: has_dynamic_island
 description: Check if a device has the Apple dynamic island hardware
-version: 1.0.1
+version: 1.0.2
 homepage: https://github.com/sethusenthil/has_dynamic_island
 issue_tracker: https://github.com/sethusenthil/has_dynamic_island/issues
 repository: https://github.com/sethusenthil/has_dynamic_island
@@ -16,14 +16,14 @@ environment:
   flutter: ">=1.17.0"
 
 dependencies:
-  device_info_plus: ^9.0.2
+  device_info_plus: ^9.1.2
   flutter:
     sdk: flutter
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^2.0.1
+  flutter_lints: ^3.0.1
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
