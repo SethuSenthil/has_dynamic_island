@@ -1,3 +1,7 @@
+## 1.0.5
+* Refactor code
+* Bug fixes
+
 ## 1.0.4
 * Update Deps
 * Support for iPhone 17 Series
